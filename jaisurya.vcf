@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Prabakaran;Jaisurya;;;
+FN:Jaisurya
+ORG:Node And Edges
+TITLE:Founder
+TEL;TYPE=CELL,VOICE:+918610212201
+EMAIL;TYPE=INTERNET,WORK:jaisurya@nodeandedges.com
+URL;TYPE=WORK:https://www.nodeandedges.com
+URL:https://jaisuryaprabu.github.io/
+X-SOCIALPROFILE;TYPE=twitter:https://x.com/__Jaisurya
+X-SOCIALPROFILE;TYPE=linkedin:https://www.linkedin.com/in/jaisurya-prabakaran/
+X-SOCIALPROFILE;TYPE=github:https://github.com/JaiSuryaPrabu
+NOTE:Building Agentic AI products for businesses.
+END:VCARD
